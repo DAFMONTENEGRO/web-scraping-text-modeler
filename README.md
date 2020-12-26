@@ -167,7 +167,11 @@ La segunda alternativa es usar el menú integrado en la librería, para utilizar
 ## 6. Referencias
 
 [1] Requests: HTTP for Humans™. Tomado de: https://2.python-requests.org/en/master/
+
 [2] MySQL Connector. Tomado de: https://www.mysql.com/products/connector/
+
 [3] Beautiful Soup Documentation. Tomado de: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 [4] Corpus de Referencia del Español Actual (CREA) - Listado de frecuencias. Tomado de: http://corpus.rae.es/lfrecuencias.html
+
 [5] Ciudad Seva: Casa digital oficial del escritor Luis López Nieves. Tomado de: https://ciudadseva.com/

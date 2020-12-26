@@ -18,19 +18,19 @@ Para su correcto funcionamiento el proyecto hace uso de cuatro librerías en Pyt
 
 * **Os:** Permite la lectura y escritura de archivos
 * **Time:** Genera pequeños retardos para que la interfaz sea mas amigable
-* **Requests:** Crea las solicitudes a las paginas web
-* **Mysql.connector:** Es la librería oficial de Mysql para conectarse desde Python
-* **BeautifulSoup:** Facilita el análisis de documentos html
+* **Requests:** Crea las solicitudes a las paginas web [1]
+* **Mysql.connector:** Es la librería oficial de Mysql para conectarse desde Python [2]
+* **BeautifulSoup:** Facilita el análisis de documentos html [3]
 
 La librería **Os** y la librería **Time** vienen por defecto distribuidas con Python, el resto se instaló por medio de pip.
 
 ### 1.2. Corpus de Referencia del Español Actual
 
-El Corpus de Referencia del Español Actual (CREA) provee un [listado de frecuencias](http://corpus.rae.es/lfrecuencias.html) de todas palabras existentes en la lengua.
+El Corpus de Referencia del Español Actual [4] (CREA) provee un [listado de frecuencias](http://corpus.rae.es/lfrecuencias.html) de todas palabras existentes en la lengua.
 
 ### 1.3. Web Scraping
 
-Por defecto la base de datos se distribuirá con las primeras 121000 frecuencias del CREA, sin embargo, para poner a prueba la herramienta procesamos con ella 3276 textos (cuentos de diversos autores en el idioma español) que contenían 852302 frases los cuales fueron recolectados de la pagina web www.ciudadseva.com, esto gracias a que en su documento robots.txt especificaba al momento del raspado que era posible extraer este contenido.
+Por defecto la base de datos se distribuirá con las primeras 121000 frecuencias del CREA, sin embargo, para poner a prueba la herramienta procesamos con ella 3276 textos (cuentos de diversos autores en el idioma español) que contenían 852302 frases los cuales fueron recolectados de la pagina web [Ciudad Seva](www.ciudadseva.com) [5], esto gracias a que en su documento robots.txt especificaba al momento del raspado que era posible extraer este contenido.
 
 Esta biblioteca se formo por medio de una aplicación que esta integrada en la librería  para hacer Web Scraping de cualquier pagina web.
 
@@ -161,3 +161,13 @@ Las funcionalidades se pueden usar de dos maneras, por medio del menú implement
 * **Entrenador corrector ortografico:**	modeler.spell_checker_trainer(word, table)
 
 La segunda alternativa es usar el menú integrado en la librería, para utilizar este menú existen dos maneras, la primera es ejecutar el script modeler.py, la segunda es ejecutar un “import modeler” y luego un “modeler.Menu()”. Al iniciar nos pedirá el usuario y contraseña de la base de datos, una vez ingresado y confirmada la conexión nos mostrara el menú.
+
+---
+
+## 6. Referencias
+
+[1] Requests: HTTP for Humans™. Tomado de: https://2.python-requests.org/en/master/
+[2] MySQL Connector. Tomado de: https://www.mysql.com/products/connector/
+[3] Beautiful Soup Documentation. Tomado de: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[4] Corpus de Referencia del Español Actual (CREA) - Listado de frecuencias. Tomado de: http://corpus.rae.es/lfrecuencias.html
+[5] Ciudad Seva: Casa digital oficial del escritor Luis López Nieves. Tomado de: https://ciudadseva.com/

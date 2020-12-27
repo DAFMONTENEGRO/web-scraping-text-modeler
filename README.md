@@ -68,7 +68,7 @@ Este es el detalle del contenido de cada una de las carpetas que se distribuyen 
 
 * **/DATA WEB SCRAPING:** Posee todos los textos que se utilizaron para construir la base de datos sustentada con el proyecto, son documentos de texto (.txt) los cuales son transcripciones de cuentos, poemas o libros extraidos de la web. Son mas de 3000 por lo que pesan un poco, asi que para poder distribuirlos los encontraras comprimidos en el archivo 'data_web_scraping.rar'.
 
-* **/DOCUMENT:** Te brindara un poco de informacion del proyecto, sin embargo, hay algunas cosas que es mas faciles visualizar por eso te recomiendo ver la presentacion que tiene informacion mas visual y completa sobre el proyecto.
+* **/DOCUMENT:** Te brindara un poco de informacion del proyecto, sin embargo, hay algunas cosas que son mas faciles de visualizar por eso es recomendable ver la presentacion que tiene informacion mas visual y completa sobre el proyecto.
 
 * **/PRESENTATION:** Esta es la documentacion grafica oficial del proyecto, casi todo esta explicado ahi de una manera divertida; asi que espero sea de utilidad. [¡Se puede ver online en GitHub!](https://github.com/DAFMONTENEGRO/web-scraping-text-modeler/blob/master/PRESENTATION/official%20presentation.pdf)
 

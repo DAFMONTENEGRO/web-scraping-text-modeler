@@ -30,7 +30,7 @@ El Corpus de Referencia del Español Actual [4] (CREA) provee un [listado de fre
 
 ### 1.3. Web Scraping
 
-Por defecto la base de datos se distribuirá con las primeras 121000 frecuencias del CREA, sin embargo, para poner a prueba la herramienta procesamos con ella 3276 textos (cuentos de diversos autores en el idioma español) que contenían 852302 frases los cuales fueron recolectados de la pagina web [Ciudad Seva](www.ciudadseva.com) [5], esto gracias a que en su documento robots.txt especificaba al momento del raspado que era posible extraer este contenido.
+Por defecto la base de datos se distribuirá con las primeras 121000 frecuencias del CREA, sin embargo, para poner a prueba la herramienta procesamos con ella 3276 textos (cuentos de diversos autores en el idioma español) que contenían 852302 frases los cuales fueron recolectados de la pagina web [Ciudad Seva](https://ciudadseva.com/) [5], esto gracias a que en su documento robots.txt especificaba al momento del raspado que era posible extraer este contenido.
 
 Esta biblioteca se formo por medio de una aplicación que esta integrada en la librería  para hacer Web Scraping de cualquier pagina web.
 

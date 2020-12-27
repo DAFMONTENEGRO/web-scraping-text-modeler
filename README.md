@@ -91,7 +91,7 @@ El codigo puede desempeñar las siguientes funcionalidades, ya sea por medio del
 1. **Buscador de frases:** Dada una palabra o frase, busca todas las frases de la base de datos con esa frase o palabra, señalando en cada una el texto de su origen.
 2. **Corrector de ortografía:** Dada una palabra o frase corrige su ortografía.
 3. **Completar una frase:** A partir de una palabra o frase indica cual es la palabra mas probable a continuación.
-4. **Entrenador corrector ortografico:** Funciona igual que el corrector ortografico, sin embargo, te indica las posibles correcciones y en caso de que no exista una correction guarda la palabra como un error (exclusiva del usuario 'root').
+4. **Entrenador corrector ortografico:** Funciona igual que el corrector ortografico, sin embargo, te indica las posibles correcciones y en caso de que no exista una corrección guarda la palabra como un error (exclusiva del usuario 'root').
 
 ### 4.1. Buscador de frases
 

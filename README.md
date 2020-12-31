@@ -4,7 +4,7 @@ El proyecto es una propuesta de modelamiento del idioma español por medio de ba
 
 ---
 
-# Proyecto Bases de Datos
+# Proyecto Bases de Datos 2020-1
 
 - Daniel Felipe Montenegro Herrera
 

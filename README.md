@@ -2,6 +2,8 @@
 
 El proyecto es una propuesta de modelamiento del idioma español por medio de bases de datos relacionales, para la creación del modelo el programa es capaz de analizar el orden, composición y estructura de cualquier texto suministrado o conjunto de palabras. Esto quiere decir que el programa es capaz de construir un modelamiento sobre cualquier idioma en el que estén escritos los textos suministrados, sin embargo, por defecto se distribuye con una implementación en español y una biblioteca de textos en español obtenidos por la herramienta de web scraping integrada en el proyecto.
 
+Esta es la documentacion grafica oficial del proyecto, casi todo esta explicado ahi de una manera divertida; asi que espero sea de utilidad. [¡Se puede ver online en GitHub!](https://github.com/DAFMONTENEGRO/web-scraping-text-modeler/blob/master/PRESENTATION/official%20presentation.pdf)
+
 ---
 
 # Proyecto Bases de Datos 2020-1
